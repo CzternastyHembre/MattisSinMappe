@@ -1,3 +1,3 @@
-oewfjwoiefjweoifjweiojiejowiejweDette er et prosjekt der vi viser frem hvordan git fungerer!
+Dette er et prosjekt der vi ssser frem hvordan git fungerer!
 
 Test nr2
